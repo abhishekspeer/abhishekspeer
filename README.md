@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/abhishekspeer/abhishekspeer/blob/master/image/Banner.png)
+![Banner Image](https://github.com/abhishekspeer/abhishekspeer/blob/master/Banner.png)
 
 
 ## Hullo there 👋
